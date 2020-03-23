@@ -1,1 +1,1 @@
-# Projecte de Clase <Javi y Héctor>
+# Projecte de Clase <Javi - Hector>
