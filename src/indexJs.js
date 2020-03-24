@@ -11,5 +11,5 @@ function removeMostrar(){
 
        player.classList.add('mostrar')
    }
-imagen.addEventListener('mouseover',removeMostrar)
-imagen.addEventListener('mouseout',addMostrar)
+imagen.addEventListener('mouseover',removeMostrar);
+imagen.addEventListener('mouseout',addMostrar);
