@@ -1,0 +1,64 @@
+body{
+    font-family: "JetBrains Mono",sans-serif;
+    background-color: #6A675E;
+}
+.barra{
+    display: flex;
+    background-color: darkslateblue;
+    height: 75px;
+    color: #6A675E;
+    border-radius: 6px;
+    align-items: center;
+    margin-top: 20px;
+    margin-left: 200px;
+    margin-right: 200px;
+    position: sticky;
+    font-weight: bold;
+    border: 2px deepskyblue solid;
+    transition: 1s;
+
+
+
+
+
+}
+.barra div{
+    width: 100px;
+    text-align: center;
+
+
+
+
+}
+.nombre{
+    font-size: 20px;
+    height: 100%;
+    transition: all 1s;
+    background-color:darkslateblue;
+
+
+
+
+
+}
+.vl {
+    background-image: linear-gradient(45deg,deepskyblue,darkslateblue);
+    width: 2px;
+    height: 75px;
+    position: relative;
+    margin: 0 2px;
+
+}
+.nombre:hover  {
+    background-image: linear-gradient(25deg,deepskyblue,lightgreen);
+
+
+
+}
+.nombre a{
+    text-decoration: none;
+    color: whitesmoke;
+    position: relative;
+    top: 20px;
+
+}
